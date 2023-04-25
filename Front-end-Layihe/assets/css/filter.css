@@ -1,0 +1,639 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  max-width: 1450px;
+  margin: auto;
+}
+
+.one .generalone .first .secone {
+  margin-top: 20px;
+}
+
+.one .generalone .first .secone .home {
+  color: #525252;
+}
+
+.one .generalone .first .secone .home span {
+  color: #000;
+  font-weight: 500;
+}
+
+.one .generalone .first .secone .filtr {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.one .generalone .first .secone .filtr .filt {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.one .generalone .first .secone .filtr .clear {
+  font-size: 13px;
+  color: #525252;
+  padding-top: 15px;
+}
+
+.one .generalone .first .secone .categ {
+  color: #000;
+  font-weight: 500;
+}
+
+.one .generalone .first .sectwo .select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.one .generalone .first .sectwo .select .ckec {
+  margin-top: 5px;
+}
+
+.one .generalone .first .sectwo .select .ckec input {
+  size: 40px;
+}
+
+.one .generalone .first .sectwo .select .ckec label {
+  padding-left: 5px;
+}
+
+.one .generalone .first .sectwo hr {
+  margin-top: 30px;
+}
+
+.one .generalone .first .secthi .brand {
+  color: #000;
+  font-weight: 500;
+}
+
+.one .generalone .first .secthi .select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.one .generalone .first .secthi .select .ckec {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secthi .select .ckec input {
+  size: 40px;
+}
+
+.one .generalone .first .secthi .select .ckec label {
+  padding-left: 5px;
+}
+
+.one .generalone .first .secthi hr {
+  margin-top: 30px;
+}
+
+.one .generalone .first .secfou .price {
+  color: #000;
+  font-weight: 500;
+}
+
+.one .generalone .first .secfou .select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.one .generalone .first .secfou .select .ckec {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfou .select .ckec input {
+  size: 40px;
+}
+
+.one .generalone .first .secfou .select .ckec label {
+  padding-left: 5px;
+}
+
+.one .generalone .first .secfou hr {
+  margin-top: 30px;
+}
+
+.one .generalone .first .secfiv .colors {
+  color: #000;
+  font-weight: 500;
+}
+
+.one .generalone .first .secfiv .select {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.one .generalone .first .secfiv .select .ckec1 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec1 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec1 .colour {
+  background-color: #000;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec1 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec2 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec2 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec2 .colour {
+  background-color: blue;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec2 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec3 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec3 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec3 .colour {
+  background-color: green;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec3 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec4 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec4 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec4 .colour {
+  background-color: #711111;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec4 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec5 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec5 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec5 .colour {
+  background-color: #2a0202;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border: 1px solid #515151;
+}
+
+.one .generalone .first .secfiv .select .ckec5 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec6 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec6 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec6 .colour {
+  background-color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border: 1px solid #515151;
+}
+
+.one .generalone .first .secfiv .select .ckec6 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv .select .ckec7 {
+  margin-top: 5px;
+}
+
+.one .generalone .first .secfiv .select .ckec7 input {
+  size: 40px;
+}
+
+.one .generalone .first .secfiv .select .ckec7 .colour {
+  background-color: #a7a7a7;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border: 1px solid #515151;
+}
+
+.one .generalone .first .secfiv .select .ckec7 label {
+  padding-left: 10px;
+}
+
+.one .generalone .first .secfiv hr {
+  margin-top: 30px;
+}
+
+.one .generalone .second .secone {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.one .generalone .second .secone .casual {
+  font-size: 28px;
+  font-weight: 700;
+  padding-top: 60px;
+  width: 300px;
+}
+
+.one .generalone .second .secone .item {
+  font-size: 17px;
+  color: #525252;
+  padding-top: 70px;
+  margin-left: 710px;
+  width: 100px;
+  position: absolute;
+}
+
+.one .generalone .second .secone .selec {
+  padding-top: 10px;
+  margin-left: 110px;
+  position: relative;
+}
+
+.one .generalone .second .secone .selec button {
+  border-color: #dadada;
+  width: 140px;
+  height: 40px;
+}
+
+.one .generalone .second .secone .selec .sort {
+  margin-bottom: 10px;
+}
+
+.one .generalone .second .secone .selec .sort p {
+  height: 0;
+  font-size: 16px;
+  font-weight: 600;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.one .generalone .second .secone .selec .sort .icon {
+  position: relative;
+  margin-left: 23px;
+  margin-bottom: 10px;
+}
+
+.one .generalone .second .secone .selec .sort .icon .uicon {
+  position: absolute;
+  color: #b2b2b2;
+  font-size: 12px;
+}
+
+.one .generalone .second .secone .selec .sort .icon .dicon {
+  position: absolute;
+  padding-top: 10px;
+  color: #b2b2b2;
+  font-size: 12px;
+}
+
+.one .generalone .second .sectwo .cards {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.one .generalone .second .sectwo .cards .card {
+  position: relative;
+  width: 180px;
+  border: none;
+  margin-top: 30px;
+}
+
+.one .generalone .second .sectwo .cards .card img {
+  border-radius: 5px;
+  width: 180px !important;
+  height: 231px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.one .generalone .second .sectwo .cards .card .info {
+  margin-left: 20px;
+}
+
+.one .generalone .second .sectwo .cards .card .info .brend {
+  font-weight: 500;
+  font-size: 17px;
+  margin-top: 8px;
+  height: 0;
+}
+
+.one .generalone .second .sectwo .cards .card .info .marka {
+  height: 0;
+  padding-top: 14px;
+  color: #888888;
+}
+
+.one .generalone .second .sectwo .cards .card .info .cost .discount {
+  height: 0;
+  color: #888888;
+  text-decoration: line-through;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+
+.one .generalone .second .sectwo .cards .card .info .cost .count {
+  font-size: 21px;
+  font-weight: 600;
+  padding-top: 10px;
+}
+
+.one .generalone .second .sectwo .cards .card:hover {
+  -webkit-box-shadow: 0px 2px 2px 2px #888888;
+          box-shadow: 0px 2px 2px 2px #888888;
+  margin-bottom: 7px !important;
+}
+
+.one .generalone .second .btn {
+  background-color: #000;
+  border-radius: 10px;
+  color: white;
+  width: 120px;
+  height: 50px;
+  margin-left: 475px;
+  margin-top: 60px;
+}
+
+footer .generalone {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 1400px;
+  height: 300px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 60px;
+}
+
+footer .generalone .write {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+footer .generalone .write h2 {
+  height: 0;
+  padding-top: 70px;
+  padding-bottom: 45px;
+  font-weight: bold;
+}
+
+footer .generalone .but {
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+footer .generalone .but input {
+  width: 410px;
+  height: 56px;
+  border: 1px solid #E6E6E6;
+  border-radius: 7px;
+  padding-left: 30px;
+  padding-bottom: 5px;
+  margin-top: 85px;
+}
+
+footer .generalone .but button {
+  width: 130px;
+  height: 56px;
+  background-color: #000;
+  color: white;
+  border-radius: 7px;
+}
+
+footer .generalone .but button:hover {
+  opacity: 0.9;
+}
+
+footer hr {
+  margin: 60px 0;
+}
+
+footer .generaltwo .social h2 {
+  font-size: 19px;
+  padding-top: 5px;
+}
+
+footer .generaltwo .social i {
+  color: #888888;
+  padding-top: 12px;
+}
+
+footer .generaltwo .social span {
+  color: #888888;
+  padding-top: 5px;
+  padding-left: 7px;
+}
+
+footer .generaltwo .contact h2 {
+  font-size: 19px;
+  padding-top: 5px;
+}
+
+footer .generaltwo .contact p {
+  color: #888888;
+  height: 0;
+  padding-top: 7px;
+}
+
+footer .generaltwo .contact .info {
+  color: #888888;
+  height: 0;
+  padding-top: 16px;
+}
+
+footer .generaltwo .about h2 {
+  font-size: 19px;
+  padding-top: 5px;
+}
+
+footer .generaltwo .about p {
+  color: #888888;
+  height: 0;
+  padding-top: 7px;
+}
+
+footer .generaltwo .about .info {
+  color: #888888;
+  height: 0;
+  padding-top: 16px;
+}
+
+footer .generaltwo .customer h2 {
+  font-size: 19px;
+  padding-top: 5px;
+}
+
+footer .generaltwo .customer p {
+  color: #888888;
+  height: 0;
+  padding-top: 7px;
+}
+
+footer .generaltwo .customer .info {
+  color: #888888;
+  height: 0;
+  padding-top: 16px;
+}
+
+footer .generaltwo .information h2 {
+  font-size: 19px;
+  padding-top: 5px;
+}
+
+footer .generaltwo .information p {
+  color: #888888;
+  height: 0;
+  padding-top: 7px;
+}
+
+footer .generaltwo .information .info {
+  color: #888888;
+  height: 0;
+  padding-top: 16px;
+}
+
+footer .generaltwo .top h2 {
+  font-size: 19px;
+  padding-top: 5px;
+}
+
+footer .generaltwo .top i {
+  color: #888888;
+  padding-top: 12px;
+}
+
+footer .generaltwo .top span {
+  color: #888888;
+  padding-top: 5px;
+  padding-left: 7px;
+}
+
+footer .hr2 {
+  margin: 70px 0 25px 0;
+}
+
+footer .genfoo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer .genfoo .inf p {
+  color: #888888;
+}
+
+footer .genfoo .inf p span {
+  color: #000;
+  font-weight: bold;
+}
+
+footer .genfoo .mark {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white;
+  margin-right: 30px;
+}
+
+footer .genfoo .mark img {
+  margin-right: 25px;
+}
+
+footer .genfoo .scroll a {
+  text-decoration: none;
+}
+
+footer .genfoo .scroll a p {
+  border: none;
+  background-color: white;
+  color: #888888;
+}
+
+footer .genfoo .scroll a p i {
+  color: #888888;
+}
+/*# sourceMappingURL=filter.css.map */
